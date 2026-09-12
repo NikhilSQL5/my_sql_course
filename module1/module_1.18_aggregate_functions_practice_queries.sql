@@ -1,6 +1,6 @@
 -- ============================================================
 -- MySQL for Data Analysts -- Master Course
--- Module 1.17: Introduction to Aggregate Functions
+-- Module 1.18: Introduction to Aggregate Functions
 -- ShopEasy E-Commerce Database -- Practice Queries
 -- ============================================================
 -- Prerequisite: Run Module_1.17_Expand_ShopEasy_Dataset.sql first
@@ -132,5 +132,5 @@ FROM products
 WHERE category_id = 1;
 
 -- ============================================================
--- End of Module 1.17 practice queries.
+-- End of Module 1.18 practice queries.
 -- ============================================================
